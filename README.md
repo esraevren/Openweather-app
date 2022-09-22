@@ -1,3 +1,7 @@
+![scweather2](https://user-images.githubusercontent.com/88592010/191748609-a6e47e17-20f3-479b-874c-0531e9701c64.png)
+![scweather](https://user-images.githubusercontent.com/88592010/191748679-490065eb-28ce-432f-a8a1-d67f555985f5.png)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
